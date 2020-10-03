@@ -8,6 +8,43 @@
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_code.css);
 @import './variables.scss';
 
+/* custom */
+
+/* border 없는 h2를 쓰고 싶다면?
+<h2 style="border-bottom: none; margin-bottom: 0px;"> Programming Skills </h2>
+*/
+
+.title-border {
+  border-left: 0.7rem solid #5BB8B5;
+  padding-left: 10px;
+}
+
+.vertical-align {
+  vertical-align: -5%;
+}
+
+.highlight-keyword {
+  margin: 0px;
+  font-size: 20px;
+  font-family: Catamaran;
+  font-weight: bold;
+}
+
+mark {
+  background-color: #e5f1f1;
+  display: inline-block;
+  line-height: 0.3em;
+  padding-bottom: 0.5em;
+}
+
+.date {
+  color: #c0c0c0;
+  font-size: 80%;
+  font-style: italic;
+}
+
+/* custom */
+
 .gatsby-highlight-code-line {
   background-color: hsla(207, 95%, 15%, 1);
   display: block;
