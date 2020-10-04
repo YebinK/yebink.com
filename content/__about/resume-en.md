@@ -71,7 +71,7 @@ lang: 'en'
 <div class="flex-item">
 	<p><span class="highlight-keyword"><mark>I LOVE POTATO 🥔</mark></span></p>
 	<p><strong>저는 감자튀김을 사랑합니다.</strong></p>
-	<p><explanation>세상에 감자튀김만큼 맛있는 음식은 없다고 생각합니다. 주로 버<span style="color: #f0f0f0;">거</span>킹의 두꺼운 느낌보다는 맥<span style="color: #f0f0f0;">도</span>날<span style="color: #f0f0f0;">드</span>의 얇은 느낌을 선호하지만, 크게 가리지 않고 잘 먹습니다.</explanation> </p>
+	<p><explanation>세상에 감자튀김만큼 맛있는 음식은 없다고 생각합니다. 주로 버x킹의 두꺼운 느낌보다는 맥도xx</span>의 얇은 느낌을 선호하지만, 크게 가리지 않고 잘 먹습니다.</explanation> </p>
 </div>
 
 </div>  
