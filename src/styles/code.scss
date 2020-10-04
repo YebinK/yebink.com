@@ -30,6 +30,23 @@
   font-weight: bold;
 }
 
+.container-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.flex-item {
+  width: 45%;
+  margin-bottom: 30px;
+}
+
+explanation {
+  font-size: 90%;
+  letter-spacing: -1px;
+}
+
 mark {
   background-color: #e5f1f1;
   display: inline-block;

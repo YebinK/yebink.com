@@ -31,53 +31,52 @@ lang: 'en'
 
 <br/>
 
-
-
 ## 저는 이런 사람입니다 !
 
-<span class="highlight-keyword"><mark>SELF-MOTIVATED 🤓</mark></span>
+<div class="container-box">
 
-**저는 개발을 사랑합니다.** 
+  <div class="flex-item">
+  	<p><span class="highlight-keyword"><mark>SELF-MOTIVATED 🤓</mark></span></p>
+		<p><strong>저는 개발을 사랑합니다.</strong> </p>
+		<p><explanation> 매일 느낄 수 있는 성취감은 <em>개발자만의 특권</em> 이라고 생각합니다! 끊임없이 고민하고 연구해 성과를 내는 모든 과정 속에서 성취감을 느끼고, 이는 제 삶의 원동력입니다. </explanation></p>
+	</div>
 
-매일 느낄 수 있는 성취감은 *개발자만의 특권* 이라고 생각합니다! 끊임없이 고민하고 연구해 성과를 내는 모든 과정 속에서 성취감을 느끼고, 이는 제 삶의 원동력입니다.
+<br>
 
-<br/>
+<div class="flex-item">
+	<p><span class="highlight-keyword"><mark>COLLABORATIVE 🎨</mark></span></p>
+	<p><strong>저는 협업을 좋아합니다.</strong> </p>
+	<p><explanation>여러 사람들이 만나 협업을 통해 시너지가 발생할 때 큰 희열을 느낍니다. <em>혼자 하면 빨리 가고, 함께 하면 멀리 간다</em> 는 말이 있듯이, 협업을 통해 함께 성장하는 것을 매우 좋아합니다. </explanation></p>
+</div>
 
-<span class="highlight-keyword"><mark>COLLABORATIVE 🎨</mark></span>
+<br>
 
-**저는 협업을 좋아합니다.** 
+<div class="flex-item">
+	<p><span class="highlight-keyword"><mark>SPEEDY 🚀</mark></span></p>
+	<p><strong>저는 빠르게 배웁니다.</strong></p>
+<p><explanation>저는 남들보다 조금 빠른 속도를 갖고 있습니다. <span style="color: #a0a0a0; text-decoration-thickness: 0.5px;"><del>그래서인지 우아한테크코스 내에서 타자도 가장 빠릅니다.(ㅎㅎ)</del></span> 이러한 제 장점을 활용해 새로운 기술이나 개념도 빠르게 파악하고 체득하는 데에 힘을 쏟고 있습니다. </explanation> </p>
 
-여러 사람들이 만나 협업을 통해 시너지가 발생할 때 큰 희열을 느낍니다. *혼자 하면 빨리 가고, 함께 하면 멀리 간다* 는 말이 있듯이, 협업을 통해 함께 성장하는 것을 매우 좋아합니다.
+  </div>
 
-<br/>
+<br>
 
-<span class="highlight-keyword"><mark>SPEEDY 🚀</mark></span>
+<div class="flex-item">
+	<p><span class="highlight-keyword"><mark>STEADY 🌞</mark></span></p>
+	<p><strong>저는 어제도, 오늘도, 내일도 성장합니다.</strong> </p>
+	<p><explanation>고등학교 시절 가장 먼저 등교해 교실 불 켜기, 대학교 시절에는 전공 공부를 열심히 해서 과탑도 경험했으며, 최근에는 일일 커밋으로 꾸준히 성장하는 자세를 유지하고 있습니다.</explanation> </p>
+</div>
 
-**저는 빠르게 배웁니다.**
+<br>
 
-저는 남들보다 조금 빠른 속도를 갖고 있습니다. <span style="color: #a0a0a0; text-decoration-thickness: 0.5px;">~~그래서인지 우아한테크코스 내에서 타자도 가장 빠릅니다.(ㅎㅎ)~~</span> 이러한 제 장점을 활용해 새로운 기술이나 개념도 빠르게 파악하고 체득하는 데에 힘을 쏟고 있습니다. 
+<div class="flex-item">
+	<p><span class="highlight-keyword"><mark>I LOVE POTATO 🥔</mark></span></p>
+	<p><strong>저는 감자튀김을 사랑합니다.</strong></p>
+	<p><explanation>세상에 감자튀김만큼 맛있는 음식은 없다고 생각합니다. 주로 버<span style="color: #f0f0f0;">거</span>킹의 두꺼운 느낌보다는 맥<span style="color: #f0f0f0;">도</span>날<span style="color: #f0f0f0;">드</span>의 얇은 느낌을 선호하지만, 크게 가리지 않고 잘 먹습니다.</explanation> </p>
+</div>
 
-<br/>
+</div>  
 
-<span class="highlight-keyword"><mark>STEADY 🌞</mark></span>
-
-**저는 어제도, 오늘도, 내일도 성장합니다.** 
-
-고등학교 시절 가장 먼저 등교해 교실 불 켜기, 대학교 시절에는 전공 공부를 열심히 해서 과탑도 경험했으며, 최근에는 일일 커밋으로 꾸준히 성장하는 자세를 유지하고 있습니다.
-
-<br/>
-
-<span class="highlight-keyword"><mark>I LOVE POTATO 🥔</mark></span>
-
-**저는 감자튀김을 사랑합니다.**
-
-세상에 감자튀김만큼 맛있는 음식은 없다고 생각합니다. 주로 버<span style="color: #f0f0f0;">거</span>킹의 두꺼운 느낌보다는 맥<span style="color: #f0f0f0;">도</span>날<span style="color: #f0f0f0;">드</span>의 얇은 느낌을 선호하지만, 크게 가리지 않고 잘 먹습니다.
-
-
-
-<br/>
-
-
+<div style="clear:both;"></div>
 
 ## Projects
 
@@ -196,7 +195,7 @@ lang: 'en'
 - ⟨카페 리뷰 어플, 커뷰⟩ SW챌린지 콘테스트 우수상, **KOSA** <span class="date">(2018.01)</span>
 
 - ⟨지하철 중간점 찾기 프로그램⟩ 소프트웨어 경진대회 장려상, **성신여자대학교** <span class="date">(2017.08)</span>
-- ⟨실리콘밸리 스타트업 탐방⟩ 글로벌프론티어 대상, **성신여자대학교** <span class="date">(2017.08)</span>
+- ⟨실리콘밸리 해외탐방⟩ 글로벌프론티어 대상, **성신여자대학교** <span class="date">(2017.08)</span>
 
 <br/>
 
@@ -207,7 +206,7 @@ lang: 'en'
 <div style="margin: 20px;"></div>
 
 - **ACA Premiere CS6**
-  - 취미로 영상 편집도 합니다. 유튜브로 돈을 벌 수 있는 세상이니까요. 🎬
+  - 취미로 영상도 만듭니다. 🎬
 
 
 
