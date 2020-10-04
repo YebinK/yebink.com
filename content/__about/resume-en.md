@@ -83,7 +83,7 @@ lang: 'en'
 
 ### [도란도란](https://dorandoran.io) <span class="date">(2020.06 ~ ing)</span>
 
-**지도를 기반으로 궁금하거나 알리고 싶은 정보를 공유하는 서비스**
+**<mark>지도를 기반으로 궁금하거나 알리고 싶은 정보를 공유하는 서비스</mark>**
 
 [Repository Link](https://github.com/woowacourse-teams/2020-doran-doran/issues)
 
@@ -110,7 +110,7 @@ lang: 'en'
 
 ### 이만 머지할게요 <span class="date">(2020.05 ~ ing)</span>
 
-**우아한테크코스 크루 간의 상호 코드리뷰 서비스**
+**<mark>우아한테크코스 크루 간의 상호 코드리뷰 서비스 (개발 중)</mark>**
 
 **담당 업무**
 
@@ -119,6 +119,8 @@ lang: 'en'
 - 핵심 도메인 설계 및 구현
 - 멀티 모듈로 분리
 - 프론트 작업 중
+
+<br/>
 
 **기술 스택**
 
