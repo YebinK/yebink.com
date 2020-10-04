@@ -1,12 +1,12 @@
 module.exports = {
-  title: `Bee starter`,
+  title: `YebinK`,
   description: `Blog posted about ...`,
   author: `YebinK`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  introduction: `Self-Motivated BackEnd Engineer`,
   siteUrl: `https://yebink.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
+    github: `YebinK`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
@@ -15,7 +15,7 @@ module.exports = {
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'JaeYeopHan/gatsby-starter-bee', // Your repository for archive comment
+    utterances: 'YebinK/gatsby-starter-bee', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
