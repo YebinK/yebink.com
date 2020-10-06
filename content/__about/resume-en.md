@@ -84,7 +84,7 @@ lang: 'en'
 
 **<mark>지도를 기반으로 궁금하거나 알리고 싶은 정보를 공유하는 서비스</mark>**
 
-[Repository Link](https://github.com/woowacourse-teams/2020-doran-doran/issues)
+[Repository Link](https://github.com/woowacourse-teams/2020-doran-doran)
 
 **담당 업무**
 
