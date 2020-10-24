@@ -65,15 +65,6 @@ lang: 'en'
 	<p><strong>저는 어제도, 오늘도, 내일도 성장합니다.</strong> </p>
 	<p><explanation>고등학교 시절 가장 먼저 등교해 교실 불 켜기, 대학교 시절에는 전공 공부를 열심히 해서 과탑도 경험했으며, 최근에는 일일 커밋으로 꾸준히 성장하는 자세를 유지하고 있습니다.</explanation> </p>
 </div>
-
-<br>
-
-<div class="flex-item">
-	<p><span class="highlight-keyword"><mark>I LOVE POTATO 🥔</mark></span></p>
-	<p><strong>저는 감자튀김을 사랑합니다.</strong></p>
-	<p><explanation>세상에 감자튀김만큼 맛있는 음식은 없다고 생각합니다. 주로 버x킹의 두꺼운 느낌보다는 맥도xx</span>의 얇은 느낌을 선호하지만, 크게 가리지 않고 잘 먹습니다.</explanation> </p>
-</div>
-
 </div>  
 
 <div style="clear:both;"></div>
